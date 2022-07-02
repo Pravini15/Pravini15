@@ -1,4 +1,4 @@
-<img alight="center" src="https://www.calloneinc.com/wp-content/uploads/2022/01/Call-One-blog-DECT-Dongle-845x310.jpg"/>
+<img alight="center" src="https://www.thesoftwarereport.com/wp-content/uploads/2019/06/github2.jpeg"/>
 <h1 align="center">Hello there👋, I'm Pravini</h1>
 <h3 align="center">An Undergraduate from SLIIT</h3>
 
