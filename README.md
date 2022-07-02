@@ -1,4 +1,5 @@
-<img alight="center" height ="350" src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67"/>
+<img alight="center" height ="300"
+src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67"/>
 <h1 align="center">Hello there👋, I'm Pravini</h1>
 <h3 align="center">An Undergraduate from SLIIT</h3>
 
