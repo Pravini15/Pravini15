@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://pravini15.io)
+[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)]
 
 <h1 align="center">Hello there👋, I'm Pravini</h1>
 <h3 align="center">An Undergraduate from SLIIT</h3>
