@@ -13,7 +13,7 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 
 - 📫 How to reach me **Email-> pravinipw15@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pravini-wickramanayake-09156b225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pravini wickramanayake" height="30" width="40" /></a>
