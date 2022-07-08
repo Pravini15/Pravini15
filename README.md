@@ -11,7 +11,7 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 
 - 💬 Ask me about **C, C++, Java**
 
-- ✉️ &nbsp;You can shoot me an email at pravinipw15@gmail.com! I'll try to respond as soon as I can.\
+- ✉️ &nbsp;You can shoot me an email at pravinipw15@gmail.com! I'll try to respond as soon as I can :)
 
 
 
