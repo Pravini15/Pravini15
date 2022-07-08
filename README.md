@@ -31,6 +31,8 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 
 ### Github Activity ✔:
 
+<br/>
+
 <a href="https://github.com/Pravini15">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravini15&theme=tokyonight" />
   </a>
