@@ -49,6 +49,6 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pravini15&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pravini15)
 
 <h2> Thank you </h2>
