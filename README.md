@@ -44,5 +44,5 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravini15&theme=tokyonight" alt="pravini15" /></p>
 
 <br/>
-<br/>
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pravini15)
