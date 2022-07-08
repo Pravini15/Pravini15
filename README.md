@@ -22,10 +22,10 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pravini-wickramanayake-09156b225/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:pravinipw15@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pravini-wickramanayake-09156b225/"><img src="https://img.shields.io/badge/-pravini-wickramanayake-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:pravinipw15@gmail.com"><img src="https://img.shields.io/badge/-pravinipw15@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_praviiii______"><img src="https://img.shields.io/badge/-_praviiii______-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/pravini.wickramanayake"><img src="https://img.shields.io/badge/-@pravini.wickramanayake-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://facebook.com/pravini.wickramanayake.3"><img src="https://img.shields.io/badge/-@pravini.wickramanayake-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <br/>
 
