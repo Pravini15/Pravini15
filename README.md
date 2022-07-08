@@ -33,7 +33,7 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 <br/>
 <br/>
 
-### Github Activity ✔:
+### ⚙️ &nbsp;GitHub Analytics
 
 <br/>
 
