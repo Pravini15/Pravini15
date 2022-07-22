@@ -13,10 +13,9 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-
 <img align ="right" alt="Coding" width="420" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravini15&label=Profile%20views&color=0e75b6&style=flat" alt="pravini15" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pravini15&label=Profile%20views&color=0e75b6&style=flat" alt="pravini15" /> </p> <br/>
 
 - 🌱 I’m currently learning **at Sri Lanka Institute of Information Technology**
 
