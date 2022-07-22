@@ -24,7 +24,7 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 <a href="https://facebook.com/pravini.wickramanayake.3"><img src="https://img.shields.io/badge/-@Pravini%20Wickramanayake-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 <br/>
-
+<hr>
 ### 🛠 &nbsp;Tech Stack
 <br/>
 
@@ -62,6 +62,7 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
 <br/>
 <br/>
 
+<hr>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <br/>
