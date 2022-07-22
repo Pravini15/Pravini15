@@ -13,7 +13,6 @@ src="https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-<h3 align="center">An Undergraduate from SLIIT</h3>
 
 <img align ="right" alt="Coding" width="420" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif">
 
