@@ -118,5 +118,10 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
   <br/>
    <a href="https://github.com/Pravini15"><img alt="Pravini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pravini15&custom_title=Pravini15's%20Contribution%20Graph&theme=tokyonight" /></a>
   <br/>
+  
+  <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
 
-<h2> Thank you </h2>
+### Thank you 
