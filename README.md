@@ -1,6 +1,6 @@
 <img alight="center" height ="200" width="1000"
 src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
-<h1 align="center">Hello there👋, I'm Pravini</h1>
+<h1 align="center">Hello Coders👋</h1>
 
 ## Who am I?
 
