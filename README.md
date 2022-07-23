@@ -122,7 +122,6 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 
 ### Thank you 
 
-<br/><br/>
 
     <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
