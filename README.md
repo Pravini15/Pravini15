@@ -116,12 +116,15 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Pravini15"><img alt="Pravini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pravini15&custom_title=Pravini15's%20Contribution%20Graph&theme=tokyonight" /></a>
+   <a href="https://github.com/Pravini15"><img alt="Pravini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pravini15&custom_title=Pravini15's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
-  <div align=center>
+
+### Thank you 
+
+<br/><br/>
+
+    <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
-
-### Thank you 
