@@ -119,11 +119,12 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
    <a href="https://github.com/Pravini15"><img alt="Pravini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pravini15&custom_title=Pravini15's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
   
-
-### Thank you 
-
-
-    <div align=center>
+   <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
+
+### Thank you ❤️
+
+
+  
