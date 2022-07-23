@@ -111,6 +111,9 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 <br/>
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pravini15)
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Pravini15"><img alt="Pravini's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Pravini15&custom_title=Pravini15's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
 
 <h2> Thank you </h2>
