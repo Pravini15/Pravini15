@@ -2,6 +2,31 @@
 src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 <h1 align="center">Hello there👋, I'm Pravini</h1>
 
+## Who am I?
+
+ ```python
+  class WhoAmI:
+    user = 'Jaydeep Yadav'
+	current_edu = "CSIT"
+    currently_learning = "Javascript"
+    fun_fact = "I hate Chillies"
+	hobbies = [
+				'Music',
+                         'Chilling',
+			 	'Gaming',
+				'Sci-Fi Movies'
+			]
+	
+	def getCity():
+		return Chhattisgarh_India()
+	
+	def Ambitions():
+		BecomeSoftwareEngineer()
+		FinishMyProjects()
+	
+ ```
+
+
 <p align="center">
   <em>
     This is ME, Pravini, a <b>Second year</b> undergraduate from <a href="(https://www.sliit.lk/)"> <b>Sri Lanka Institute of Information Technology</b></a>. <br>
