@@ -6,19 +6,17 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 
  ```python
   class WhoAmI:
-    user = 'Jaydeep Yadav'
-	current_edu = "CSIT"
-    currently_learning = "Javascript"
-    fun_fact = "I hate Chillies"
+    user = 'Pravini Wickramanayake'
+	current_edu = "SLIIT"
+    currently_learning = "Django framework"
 	hobbies = [
 				'Music',
-                         'Chilling',
-			 	'Gaming',
-				'Sci-Fi Movies'
+                       	        'Chilling',
+				'Movies'
 			]
 	
 	def getCity():
-		return Chhattisgarh_India()
+		return Matara_SriLanka()
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
