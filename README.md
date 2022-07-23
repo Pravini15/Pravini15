@@ -11,9 +11,9 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
     currently_learning = "Django framework"
 	hobbies = [
 				'Music',
-                       	        'Chilling',
+                       	   'Chilling',
 				'Movies'
-			]
+		  ]
 	
 	def getCity():
 		return Matara_SriLanka()
