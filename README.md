@@ -26,7 +26,7 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 
 
 
-<img align ="right" alt="Coding" width="420" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif"> <br/>
+<img align ="right" alt="Coding" width="420" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611899495e4a62bf1336eb3abeb659bcf2bf74cf56a&rid=giphy.gif&ct=g"> <br/>
 
 
 
