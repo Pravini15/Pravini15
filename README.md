@@ -26,7 +26,7 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 
 
 
-<img align ="right" alt="Coding" width="420" src="(https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif)"> <br/>
+<img align ="right" alt="Coding" width="420" src="(https://i0.wp.com/i.giphy.com/media/137EaR4vAOCn1S/giphy-downsized.gif?w=770&ssl=1)"> <br/>
 
 
 
