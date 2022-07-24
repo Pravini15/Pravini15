@@ -30,7 +30,7 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 
 
 
- ✔️ I’m currently learning **at Sri Lanka Institute of Information Technology**
+ ✔️ I’m a second **at Sri Lanka Institute of Information Technology**
 
  ✔️ Ask me about **C, C++, Java**
 
