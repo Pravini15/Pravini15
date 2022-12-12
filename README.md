@@ -8,7 +8,7 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
   class WhoAmI:
     user = 'Pravini Wickramanayake'
 	current_edu = "SLIIT"
-    currently_learning = "Django framework"
+    currently_learning = "Mern stack"
 	hobbies = [
 				'Music',
                          'Chilling',
@@ -32,7 +32,7 @@ src="https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png"/>
 
  ✔️ I’m a second year undergraduate **at Sri Lanka Institute of Information Technology**
 
- ✔️ Ask me about **C, C++, Java**
+ ✔️ Ask me about **C, C++, Java, Python**
 
  ✔️ &nbsp;You can shoot me an email at pravinipw15@gmail.com! I'll try to respond as soon as I can :)
 
